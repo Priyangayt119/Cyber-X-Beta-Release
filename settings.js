@@ -1,6 +1,6 @@
 //CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
-//══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
-// EXAM ඉවර උනාම ඉතුරු ටික දෙන්නම් 😓😓😓 GOOD LUCK ALL\\
+//══════════════THANKS FOR DPT BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
+// GOOD LUCK ALL\\
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -36,28 +36,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['+1 (217) 803-1915'] //ur owner number
+global.ownername = "ꪶ𓄂᳆⃞ᏟᎽᏰᏋᏒ࿐ ꪶкιηgꫂ" //ur owner name
+global.ytname = "𓄂᳆⃞⎝𝐃𝐉〲𝐏𝐑𝐈𝐘𝐀𝐍𝐆𝐀〴𝐓𝐄𝐂𝐇⎠࿐" //ur yt chanel name
+global.socialm = "ꪶ𓄂᳆⃞ᏟᎽᏰᏋᏒ࿐ ꪶкιηgꫂ" //ur github or insta name
+global.location = "Sri Lanka" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
+global.owner = ['+1 (217) 803-1915']
+global.ownertag = '+1 (217) 803-1915' //ur tag number
+global.botname = 'ꪶ𓄂᳆⃞ᏟᎽᏰᏋᏒ࿐ ꪶкιηgꫂ' //ur bot name
+global.ig = "https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw" //your theme url which will be displayed on whatsapp
+global.myweb = "https://chat.whatsapp.com/F0CNZiQTJJCDWOPc1D5qj4" //ur website to be displayed
+global.sc = 'https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw' //script link
+global.linkz = 'https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw'
+global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.packname = "ꪶ𓄂᳆⃞ᏟᎽᏰᏋᏒ࿐ ꪶкιηgꫂ" //ur sticker watermark packname
+global.author = "ꪶ𓄂᳆⃞ᏟᎽᏰᏋᏒ࿐ ꪶкιηgꫂ" //ur sticker watermark author
+global.aliveimg ="https://telegra.ph/file/409612193ca7e7645e773.jpg"
+global.allmenuimg ="https://telegra.ph/file/409612193ca7e7645e773.jpg"
+global.welcomeimg= "https://telegra.ph/file/409612193ca7e7645e773.jpg"
+global.gbyeimg = "https://telegra.ph/file/409612193ca7e7645e773.jpg"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['+1 (217) 803-1915'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -82,7 +82,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = ['https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw']
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
